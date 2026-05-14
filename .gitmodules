@@ -1,0 +1,6 @@
+[submodule "sil-ba"]
+	path = sil-ba
+	url = https://github.com/groenewt/sil-ba
+[submodule "sil-harmony"]
+	path = sil-harmony
+	url = https://github.com/groenewt/sil-harmony
